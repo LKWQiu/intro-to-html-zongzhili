@@ -1,0 +1,11 @@
+body{
+    background-color: red;
+    justify-content: center;
+    position: absolute;
+}
+li{
+    margin: 10px;
+}
+img{
+    justify-self: center;
+}
